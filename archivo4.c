@@ -1,7 +1,6 @@
 #include<stdio.h>
-
 int main(){
-    int a=6;
-    printf("hola mundo %d",a);
+    float x=5.5;
+    printf("%f",x);
     return 0;
 }
